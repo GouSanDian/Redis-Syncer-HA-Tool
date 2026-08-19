@@ -245,7 +245,7 @@ Redis Cluster / Sentinel 备用集群（双活互写/灾备兜底）
 
 - **企业级数据运维**：定时备份、误删恢复、断点稳定同步，保障数据安全
 
-# 🤝欢迎 Star、使用我们团队的其它产品
+# 🤝欢迎 Star，欢迎使用我们团队的其它产品
 
 大模型呼叫中心系统：https://github.com/lihaiya/freeipcc
 
